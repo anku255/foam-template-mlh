@@ -1,7 +1,7 @@
 <div align="center">
-  <br>
-  <img src="https://imgur.com/D3eJhHg.png" height="96">
-    <h3 align="center">Foam Template MLH</h3>
+  <br />
+  <img src="https://imgur.com/D3eJhHg.png" height="96" />
+  <h3 align="center">Foam Template MLH</h3>
 </div>
 
 👋 Welcome to your new Foam Workspace!
