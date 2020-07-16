@@ -1,1 +1,1 @@
-import "katex/dist/katex.min.css"
+import "./node_modules/katex/dist/katex.min.css"
