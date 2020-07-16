@@ -1,8 +1,7 @@
-# Working Remotely by Joe Nash 
+# Working Remotely by Joe Nash
 
 [Youtube Link](https://www.youtube.com/watch?v=Y089CUWKy2w&list=PLPDgudJ_VDUfjmLIe9vasB6miSL1ggWkH&index=10&t=0s)
 
-## Things Learnt
 
 ### Asynchronous Communication
 
