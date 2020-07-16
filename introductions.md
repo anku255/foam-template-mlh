@@ -1,4 +1,4 @@
-# Introductions Notes
+# Introduction Notes
 
 In the first week of your MLH Fellowship you will be asked to do `one-on-one` call with your pod mates. This is your opportunity get to know your podmates. 
 
