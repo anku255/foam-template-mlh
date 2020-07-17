@@ -31,12 +31,14 @@ Taking notes is a crucial part of this MLH Fellowship. We've created a few Bubbl
 - [[retrospectives]] - use this to take notes for your retrospective sessions.
 - [[events]] - don't forget to take notes during awesome MLH events.
 - [[todo]] - a place to keep track of things to do.
+- [[programming-languages]]
 
 
 [inbox]: inbox "Inbox"
 [learning-management-system]: lms/learning-management-system "LMS Notes"
 [show-and-tell]: show-and-tell/show-and-tell "Show and Tell"
-[introductions]: introductions "Introductions Notes"
+[introductions]: introductions "Introduction Notes"
 [retrospectives]: retrospectives "Restrospective Notes"
 [events]: events/events "MLH Events"
 [todo]: todo "Todo"
+[programming-languages]: my-notes/programming-languages "Programming Languages"
