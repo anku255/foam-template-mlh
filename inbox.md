@@ -12,4 +12,13 @@
   - You can always find them in your git history, if you really need it!
 
 
+$$f(x)$$
+
+```js
+
+console.log("hello, world"!!)
+
+```
+
+
 [todo]: todo "Todo"
